@@ -1,5 +1,8 @@
 Link:
 
+https://github.com/piotrlewoniec/goit-node-hw-01
+https://github.com/piotrlewoniec/goit-node-hw-01/tree/main/db/goit-node-hw-01_homework_screenshoot_console.jpg
+
 ---
 
 Kryteria zaliczenia
